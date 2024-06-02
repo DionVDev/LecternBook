@@ -1,0 +1,10 @@
+name: LecternBook
+version: '${project.version}'
+main: nl.dionvdev.lecternbook.LecternBook
+api-version: '1.20'
+
+authors:
+  - Dion
+
+commands:
+  lb:
